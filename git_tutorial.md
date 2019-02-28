@@ -23,6 +23,7 @@ git diff => the changes you've made to the code
 git status
 git add -A
 git commit -m "random"
+git remote add origin https://github.com/andrewyeung/weather-react.git => use HTTPS!
 git pull origin master => pulled from any changes since the last time we pulled
 git push origin master => push to the master branch of remote repo
 
